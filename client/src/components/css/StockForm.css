@@ -1,0 +1,30 @@
+div{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 100px;
+}
+
+th{
+    padding-left: 100px;
+}
+
+td{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+label{
+    color: red;
+}
+
+button{
+
+    background-color: cadetblue;
+    margin-left: 70px;
+}
+
